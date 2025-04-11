@@ -29,6 +29,8 @@ Delete a Local Tag: git tag -d tagname
 Delete a remote Tag: git push --delete remote-name tagname
 
 
-If the image is hosted online:
+
 
 ![Purple Flower](https://wallpapercave.com/wp/PSpoeP1.jpg)
+
+
